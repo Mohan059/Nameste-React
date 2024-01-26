@@ -1,0 +1,17 @@
+{
+  "name": "nameste-react",
+  "version": "1.0.0",
+  "description": "This my Nameste React Course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "React",
+    "Nameste",
+    "React",
+    "Mohan"
+  ],
+  "author": "Mohan Sharma",
+  "license": "ISC"
+}
