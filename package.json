@@ -13,5 +13,8 @@
     "Mohan"
   ],
   "author": "Mohan Sharma",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
 }
